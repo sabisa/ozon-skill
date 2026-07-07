@@ -129,6 +129,52 @@
 
 ---
 
+# 🆕 新增品类（无认证要求）
+
+## 🥇 强烈推荐 ⭐⭐⭐⭐⭐
+
+### 🐱 宠物用品类
+
+| 品类 | 推荐指数 | 竞争度 | 认证 | 备注 |
+|------|---------|--------|------|------|
+| 自动饮水机 | ⭐⭐⭐⭐⭐ | 低 | 无 | ✅ **强烈推荐** |
+| 自动喂食器 | ⭐⭐⭐⭐ | 中 | 无 | ✅ 高客单价 |
+
+### 🍳 厨房工具类
+
+| 品类 | 推荐指数 | 竞争度 | 认证 | 备注 |
+|------|---------|--------|------|------|
+| 多功能切菜器 | ⭐⭐⭐⭐⭐ | 低 | 无 | ✅ **强烈推荐** |
+
+## 利润达标汇总
+
+| 品类 | 商品 | 售价 | 评论数 | 毛利估算 | 达标 | 采购上限 |
+|------|------|------|--------|---------|------|---------|
+| 🐱 宠物饮水机 | IPETWOW 传感器款 | 2,511₽ | 714 | 62-82¥ | ✅ | ≤70¥ |
+| 🐱 宠物饮水机 | DownyPaws 不锈钢 | 待查 | 待查 | 50-70¥ | ✅ | ≤65¥ |
+| 🍳 厨房切菜器 | 5刀片多功能款 | 1,668₽ | 191 | 53-63¥ | ✅ | ≤40¥ |
+| 🍳 厨房切菜器 | QUPI 6刀片款 | 约1,400₽ | 7,291 | 45-55¥ | ✅ | ≤35¥ |
+
+## 商品链接
+
+### 宠物自动饮水机
+
+| 商品 | 售价 | 评论数 | 链接 |
+|------|------|--------|------|
+| IPETWOW 传感器款 | 2,511₽ | 714 | https://www.ozon.ru/product/poilka-fontan-ipetwow-dlya-koshek-i-sobak-avtomaticheskaya-s-datchikom-dvizheniya-i-ultra-tihiy-3925445867/ |
+| DownyPaws 不锈钢 | 待查 | 待查 | https://www.ozon.ru/product/poilka-fontan-dlya-koshek-i-sobak-avtomaticheskaya-besprovodnaya-downypaws-nerzhaveyushchaya-stal-3086830346/ |
+| LABEKA | 待查 | 待查 | https://www.ozon.ru/product/poilka-fontan-dlya-koshek-i-sobak-labeka-avtomaticheskaya-besprovodnaya-nerzhaveyushchaya-stal-s-2540562114/ |
+
+### 多功能厨房切菜器
+
+| 商品 | 售价 | 评论数 | 链接 |
+|------|------|--------|------|
+| 5刀片多功能款 | 1,668₽ | 191 | https://www.ozon.ru/product/mnogofunktsionalnaya-ovoshcherezka-terka-dlya-narezki-syra-ovoshchey-i-fruktov-4005916608/ |
+| QUPI 6刀片款 | 约1,400₽ | 7,291 | https://www.ozon.ru/product/ovoshcherezka-dlya-ovoshchey-s-konteynerom-ruchnaya-mnogofunktsionalnaya-c-nasadkami-kubikami-qupi-656705831/ |
+| Sakura 多功能款 | 约1,700₽ | 2,845 | https://www.ozon.ru/product/multislayser-dlya-ovoshchey-i-fruktov-sakura-sa-vs01bk-terka-ovoshcherezka-mehanicheskaya-3268288653/ |
+
+---
+
 # 📈 潜力品类（布丁猫重点关注）
 
 | 品类 | 特点 | 上架时间 | 推荐理由 |
